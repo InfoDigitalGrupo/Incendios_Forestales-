@@ -36,7 +36,9 @@ Acá vemos algunos mapas que muestran las zonas afectadas.
 
 Rescatamos: La calidad del mapa y cómo los colores muestran las zonas afectadas.
 
-Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas (bosque nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio.
+Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos;
+1) las hectáreas afectadas (bosque nativo, plantaciones, matorral, agrícola)
+2) 2) los focos de incendio.
 
 ### Efectos por región en la flora y la fauna 
 
@@ -45,8 +47,8 @@ Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos 1) las hect�
 Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una locación.
 
 Cambiaríamos: Por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas.
-Plantaciones: Pino, Eucaliptus, y otros.
-En categoría de conservación: Palma, Puya, Qeule
+- Plantaciones: Pino, Eucaliptus, y otros.
+- En categoría de conservación: Palma, Puya, Qeule
 
 ![Tormenta de fuego](readme/especies-afectadas.jpg)
 
