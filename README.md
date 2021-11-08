@@ -47,6 +47,9 @@ Cambiaríamos: por plantas, cuáles especies de plantaciones y especies en categ
 plantaciones: pino, eucaliptus, otros
 en categoría de conservación: palma, puya, qeule
 
+![Tormenta de fuego](readme/especies-afectadas.jpg)
+
+
 
 
 ### Referentes bibliográficas «TORMENTA DE FUEGO» 
