@@ -25,20 +25,21 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 |   Total   |     77.130    |        76.557       | **280.554**  |    31.517    |  1.780 | 467.538 |
 |     %     |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
 
-Contexto: Santiago tiene 64.100 hectáreas (lo que se traduce en aproximadamente 7 Santiagos en 18 días).
 
-![Tormenta de fuego](readme/mapas-incendios.jpg)
+Rescatamos: Recalcar el porcentaje de bosques afectados.
 
-Acá vemos algunos mapas que muestran las zonas afectadas.
+Cambiaríamos: Nada.
 
-![Tormenta de fuego](readme/mapa.jpg)
+### Efectos por tipo de área
 
+|   Región  | Áreas sin vegetación | Áreas Urbanas-Industriales | Bosques | Humedales |  Praderas y Matorrales | Terrenos Agrícolas |  Total  |
+|:---------:|:--------------------:|:--------------------------:|:-------:|:---------:|:----------------------:|:------------------:|:-------:|
+| O'Higgins |          15,1        |              132,7         |69.727,3 |     0,4   |        11.484,3        |       8.997,4      |90.357,3 |
+|   Maule   |          221,9       |              406,9         |215.465,7|   232,7   |   51.105,2             |      12.673,6      |280.106,0|
+|  Bío-Bío  |          319,2       |              173,9         |73.174,6 |   278,7   |   15.176,8             |      10.356,5      |99.479,7 |
+|   Total   |        77.130        |              76.557        |**280.554**|31.517   |  1.780                 |       467.538      |518.174,2|
+|     %     |        0,1%          |               0,2%         |**75,0%** |   0,1%    |   18,1%                |        6,5%        | 100%    |
 
-Rescatamos: La calidad del mapa y cómo los colores guían al lector para identificar las zonas afectadas.
-
-Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos;
-1) Las hectáreas afectadas (bosque nativo, plantaciones, matorral, agrícola).
-2) Los focos de incendio.
 
 ### Efectos por región en la flora y la fauna 
 
