@@ -47,6 +47,7 @@ Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos;
 Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una locación.
 
 Cambiaríamos: Por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas.
+
 -Plantaciones: Pino, Eucaliptus, y otros.
 -En categoría de conservación: Palma, Puya, Qeule
 
