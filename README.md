@@ -4,18 +4,18 @@
 
 ### Introducción
 
-A inicios del año 2017 en el secano costero chileno acontecieron una suma de incendios mega forestales que afectaron principalmente siete regiones del país. Este hecho fue denominado por especialistas como “Tormenta de Fuego”, dada su inusual gravedad que da paso a una nueva generación de incendios a escala mundial, que según expertos de la Unión Europea tiene como causa principal el calentamiento global. 
+A inicios del año 2017, en el secano costero chileno acontecieron una suma de incendios mega forestales que afectaron principalmente siete regiones del país. Este hecho fue denominado por especialistas como una “Tormenta de Fuego”, dada su inusual gravedad que da paso a una nueva generación de incendios a escala mundial, la que según expertos de la Unión Europea tiene como causa principal el calentamiento global.
 
-La situación acontecida en el territorio nacional, se convirtió rápidamente en un episodio a escala mundial, puesto que supera la “quinta generación” de incendios, dada su intensidad en la línea de fuego y la velocidad de propagación (UE 2017; CONAF 2017). 
+La situación acontecida en el territorio nacional, se convirtió rápidamente en un episodio de escala mundial, puesto que supera la “quinta generación” de incendios dada su intensidad en la línea de fuego y la velocidad de propagación (UE 2017; CONAF 2017). 
 
-Durante este tiempo, se establecieron más de 500 focos de incendios activos, que sumado a la escasez hídrica, las extensas plantaciones forestales, el aumento de las temperaturas del verano sobre 35 y 40 grados Celsius, y la intensidad de los vientos, se combinaron de modo tal que el fuego adquirió características de incontrolables, lo que da paso a la denominación de este fenómeno como tormenta de fuego. 
+Durante este tiempo, se establecieron más de 500 focos de incendios activos, que sumado a la escasez hídrica, las extensas plantaciones forestales, el aumento de las temperaturas del verano sobre 35 y 40 grados Celsius, y la intensidad de los vientos, se combinaron de modo tal que el fuego adquirió características de incontrolables, lo que da paso a la denominación de este fenómeno como tormenta de fuego.
 
 ![Tormenta de fuego](https://user-images.githubusercontent.com/83090492/140768886-f8281f3b-eb93-4163-9c24-61be69d536df.png)
-Rescátamos la línea gráfica de la ilustración, queremos mostrar un contraste de texturas a través de un efecto acuarela.
+Rescátamos la línea gráfica presentada en esta ilustración, queremos mostrar un contraste de texturas a través de un efecto acuarela.
 
 ### Efectos regionales en uso de suelo:
 
-Si bien se estima que la extensión total de territorios afectados fue cercana a las 500.000 hectáreas, el catastro efectuado por tipos de uso de suelo da cuenta de una cifra de 467.538 hectáreas, entre las regiones de Coquimbo y La Araucanía, siendo la región del Maule la más afectada con alrededor de 280.000 hectáreas. Por tipo de uso suelo, el destinado a plantaciones forestales fue el más afectado, también con alrededor de 280.000 hectáreas. 
+Si bien se estima que la extensión total de territorios afectados fue cercana a las 500.000 hectáreas, el catastro efectuado por tipos de uso de suelo da cuenta de una cifra de 467.538 hectáreas entre las regiones de Coquimbo y La Araucanía, siendo la región del Maule la más afectada con alrededor de 280.000 hectáreas. Por tipo de uso suelo, el destinado a plantaciones forestales fue el más afectado, también con alrededor de 280.000 hectáreas. 
 
 |   Región  | Bosque Nativo | Matorral y Praderas | Plantaciones | Uso Agrícola |  Otros |  Total  |
 |:---------:|:-------------:|:-------------------:|:------------:|:------------:|:------:|:-------:|
@@ -29,31 +29,31 @@ Contexto: Santiago tiene 64.100 ha (aproximadamente 7 Santiagos en 18 días)
 
 ![Tormenta de fuego](readme/mapas-incendios.jpg)
 
-Acá vemos algunos mapas que muestran las zonas afectadas
+Acá vemos algunos mapas que muestran las zonas afectadas.
 
 ![Tormenta de fuego](readme/mapa.jpg)
 
 
-Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
+Rescatamos: La calidad del mapa y cómo los colores muestran las zonas afectadas.
 
-Cambiaríamos: por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas(bosq nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio 
+Cambiaríamos: Por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas (bosque nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio.
 
 ### Efectos por región en la flora y la fauna 
 
 ![Tormenta de fuego](readme/fauna-afectada.jpg)
 
-Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una locación
+Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una locación.
 
-Cambiaríamos: por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas
-plantaciones: pino, eucaliptus, otros
-en categoría de conservación: palma, puya, qeule
+Cambiaríamos: Por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas.
+Plantaciones: Pino, Eucaliptus, y otros.
+En categoría de conservación: Palma, Puya, Qeule
 
 ![Tormenta de fuego](readme/especies-afectadas.jpg)
 
 
 ## Referentes
 
-### Referentes bibliográficas «TORMENTA DE FUEGO» 
+### Referentes Bibliográficas «TORMENTA DE FUEGO» 
 + [CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
 + https://www.cr2.cl/incendios/
 Incendios forestales en Chile de 2017 (datos)
