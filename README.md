@@ -25,6 +25,7 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 |   Total   |     77.130    |        76.557       | **280.554**  |    31.517    |  1.780 | 467.538 |
 |           |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
 
+Contexto: Santiago tiene 64.100 ha (aproximadamente 7 Santiagos en 18 días)
 
 ![Tormenta de fuego](readme/mapas-incendios.jpg)
 
@@ -50,7 +51,7 @@ en categoría de conservación: palma, puya, qeule
 ![Tormenta de fuego](readme/especies-afectadas.jpg)
 
 
-
+## Referentes
 
 ### Referentes bibliográficas «TORMENTA DE FUEGO» 
 + [CONAF TORMENTA DE FUEGO](https://www.conaf.cl/tormenta_de_fuego-2017/DESCRIPCION-Y-EFECTOS-TORMENTA-DE-FUEGO-18-ENERO-AL-5-FEBRERO-2017.pdf)
