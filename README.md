@@ -13,7 +13,7 @@ Durante este tiempo, se establecieron más de 500 focos de incendios activos, qu
 ![Tormenta de fuego](https://user-images.githubusercontent.com/83090492/140768886-f8281f3b-eb93-4163-9c24-61be69d536df.png)
 Rescátamos la línea gráfica de la ilustración, queremos mostrar un contraste de texturas a través de un efecto acuarela.
 
-### Efectos regionales/flora y fauna:
+### Efectos regionales en Uso de Suelo:
 
 Si bien se estima que la extensión total de territorios afectados fue cercana a las 500.000 hectáreas, el catastro efectuado por tipos de uso de suelo da cuenta de una cifra de 467.538 hectáreas, entre las regiones de Coquimbo y La Araucanía, siendo la región del Maule la más afectada con alrededor de 280.000 hectáreas. Por tipo de uso suelo, el destinado a plantaciones forestales fue el más afectado, también con alrededor de 280.000 hectáreas. 
 
@@ -36,6 +36,8 @@ Acá vemos algunos mapas que muestran las zonas afectadas
 Rescatamos: la calidad del mapa y cómo los colores muestran las zonas afectadas.
 
 Cambiaríamos: por un mapa de las regiones afectadas, mostraríamos 1) las hectáreas afectadas(bosq nativo, plantaciones, matorral, agrícola) y 2) los focos de incendio 
+
+### Efectos por región en la flora y la fauna 
 
 ![Tormenta de fuego](readme/fauna-afectada.jpg)
 
