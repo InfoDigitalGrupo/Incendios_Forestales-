@@ -23,7 +23,7 @@ Si bien se estima que la extensión total de territorios afectados fue cercana a
 |   Maule   |     29.588    |        51.055       |    185.875   |    12.551    |   862  | 279.931 |
 |  Bío-Bío  |     12.894    |        15.177       |    60.280    |    10.357    |   772  |  99.480 |
 |   Total   |     77.130    |        76.557       | **280.554**  |    31.517    |  1.780 | 467.538 |
-|           |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
+|     %     |      16,5%    |         16,4%       |    **60%**   |      6,7%    |   0,4% |   100%  |
 
 Contexto: Santiago tiene 64.100 ha (aproximadamente 7 Santiagos en 18 días)
 
