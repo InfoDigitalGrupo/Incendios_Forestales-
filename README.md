@@ -49,6 +49,7 @@ Rescatamos: Los gráficos figurativos de las especies, cómo se ubican en una lo
 Cambiaríamos: Por plantas, cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas.
 
 -Plantaciones: Pino, Eucaliptus, y otros.
+
 -En categoría de conservación: Palma, Puya, Qeule
 
 ![Tormenta de fuego](readme/especies-afectadas.jpg)
