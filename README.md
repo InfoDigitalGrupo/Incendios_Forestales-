@@ -59,7 +59,7 @@ en categoría de conservación: palma, puya, qeule
 Incendios forestales en Chile de 2017 (datos)
 + https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2017
 
-### Referentes infografías 
+### Antecedentes de infografías 
 + https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/index.html
 + https://graphics.reuters.com/AUSTRALIA-BUSHFIRES/0100B30H252/index.html
