@@ -54,17 +54,27 @@ Rescatamos: Recalcar el porcentaje de bosques afectados.
 
 ### Efectos por región en la flora y la fauna 
 
+La mayor proporción de daño corresponde a plantaciones forestales (80% pino radiata); bosques nativos en su mayoría del tipo esclerófilo, y praderas y matorrales. Con relación a las plantaciones forestales, un 52% de la superficie corresponde a grandes empresas forestales, un 29% a pequeños propietarios forestales, un 16% a medianos propietarios y un 3% a empresas medianas. Como una medida de magnitud, en plantaciones lo quemado corresponde al 8% de la superficie nacional. 
+
+![Superficie total afectada](https://user-images.githubusercontent.com/83090492/140852069-25c2b5d8-b829-43af-8c4e-9e1e9faea40a.jpg)
+
+![Afectación de plantaciones](https://user-images.githubusercontent.com/83090492/140852082-61d65258-354b-4392-b47c-79cb9fdc1593.jpg)
+
+![Afectación por tipo forestal](https://user-images.githubusercontent.com/83090492/140852098-8f72e4e7-9aa6-464c-8820-98c1f7a68d45.jpg)
+
+![Afectación de superficie por categoría de conservación](https://user-images.githubusercontent.com/83090492/140852116-aa63383f-9a38-406c-961f-3154a17cdacf.jpg)
+
+![Bosque Esclerófilo Mediterráneo](https://user-images.githubusercontent.com/83090492/140852129-3f3b53d2-4fe0-415f-b5e8-75419ed559da.jpg)
+
+
 ![Tormenta de fuego](readme/fauna-afectada.jpg)
 
 Rescatamos: Los gráficos figurativos de cada especies, y cómo se ubican según su locación.
-
-Cambiaríamos: Por plantas en vez de animales. Informar sobre cuáles especies de plantaciones y especies en categoria de conservación fueron más afectadas.
-
--Plantaciones: Pino, Eucaliptus, y otros.
-
--En categoría de conservación: Palma, Puya, Qeule
+Cambiaríamos: Por los tipos de plantación en vez de la fauna representada en la infografía anterior. 
 
 ![Tormenta de fuego](readme/especies-afectadas.jpg)
+
+El efecto asociado al sector pecuario afectó a 4.696 agricultores, quienes tuvieron pérdidas efectivas por efecto del fuego o se vieron bajo serio riesgo de muerte de sus animales por falta de forraje y alimentación. En términos concretos, esta emergencia involucró a casi 45 mil cabezas de ganado ovino y caprino, 46 mil colmenas de abejas, ocho mil 500 cabezas bovinas y cinco mil 600 equinos. 
 
 
 ## Referentes
