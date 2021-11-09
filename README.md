@@ -66,12 +66,14 @@ La mayor proporción de daño corresponde a plantaciones forestales (80% pino ra
 
 ![Bosque Esclerófilo Mediterráneo](https://user-images.githubusercontent.com/83090492/140852129-3f3b53d2-4fe0-415f-b5e8-75419ed559da.jpg)
 
+Rescatamos: Los gráficos figurativos de cada especie afectada por el incendio.
 
 ![Tormenta de fuego](readme/fauna-afectada.jpg)
 
-Rescatamos: Los gráficos figurativos de cada especie afectada por el incendio de Australia, y cómo se ubican según su locación en el mapa territorial.
+Rescatamos: La representación de las especies afectadas en el incendio de Australia asociadas a determinados territorios del país. 
 
-Cambiaríamos: Los tipos de plantación en vez de la fauna representada en la infografía anterior. 
+Cambiaríamos: Los tipos de animales por tipos de plantaciones afectadas asociándolo al mapa del territorio nacional. 
+
 
 El efecto asociado al sector pecuario afectó a 4.696 agricultores, quienes tuvieron pérdidas efectivas por efecto del fuego o se vieron bajo serio riesgo de muerte de sus animales por falta de forraje y alimentación. En términos concretos, esta emergencia involucró a casi 45 mil cabezas de ganado ovino y caprino, 46 mil colmenas de abejas, ocho mil 500 cabezas bovinas y cinco mil 600 equinos. 
 
@@ -96,6 +98,7 @@ Las estimaciones antes mencionadas hablan  de  un  efecto  acotado  en  el  ámb
 + https://www.cr2.cl/incendios/
 Incendios forestales en Chile de 2017 (datos)
 + https://es.wikipedia.org/wiki/Incendios_forestales_en_Chile_de_2017
++ https://www.odepa.gob.cl/wp-content/uploads/2017/12/incendios2017.pdf
 
 ### Antecedentes de infografías 
 + https://graphics.reuters.com/BRAZIL-WILDFIRE/0100B25610Q/index.html
