@@ -69,12 +69,24 @@ La mayor proporción de daño corresponde a plantaciones forestales (80% pino ra
 
 ![Tormenta de fuego](readme/fauna-afectada.jpg)
 
-Rescatamos: Los gráficos figurativos de cada especies, y cómo se ubican según su locación.
-Cambiaríamos: Por los tipos de plantación en vez de la fauna representada en la infografía anterior. 
+Rescatamos: Los gráficos figurativos de cada especie afectada por el incendio de Australia, y cómo se ubican según su locación en el mapa territorial.
 
-![Tormenta de fuego](readme/especies-afectadas.jpg)
+Cambiaríamos: Los tipos de plantación en vez de la fauna representada en la infografía anterior. 
 
 El efecto asociado al sector pecuario afectó a 4.696 agricultores, quienes tuvieron pérdidas efectivas por efecto del fuego o se vieron bajo serio riesgo de muerte de sus animales por falta de forraje y alimentación. En términos concretos, esta emergencia involucró a casi 45 mil cabezas de ganado ovino y caprino, 46 mil colmenas de abejas, ocho mil 500 cabezas bovinas y cinco mil 600 equinos. 
+
+|   Región  | N° Agricultores | Bovinos | Equinos | Ovinos y caprinos | Colmenas |
+|:---------:|:-------------:|:-------------------:|:------------:|:------------:|:------:|
+| O'Higgins |     1.023    |        2.621      |    1.996    |     20.798    |   20.798 |
+|   Maule   |     2.117    |        5.319     |    3.523  |    22.439   |   26.183 |
+|  Bío-Bío  |     1.556   |        589       |    123    |    1.584    |   750  |
+|   Total   |     4.696   |        8.529       | 5.642  |    44.821   |  45.817 |
+
+### Impacto económico de los incendios en los ámbitos de Agricultura, Ganadería, y Foresto-industrial
+
+La valorización económica del daño en el sector silvoagropecuario causado por los incendios entre el 1 de enero y el 2 de febrero de 2017, es de **MM USD 670 [670.000.000]** (Fuente ODEPA). Lo que se distribuye en MM USD 110.7 millones de bosque nativo, MM USD 25 millones de infraestructura, y: Agricultura: MM USD 36, aproximadamente, entre frutales, praderas, cultivos anuales y forrajeras quemadas. El 80% corresponde a praderas y frutales, en proporciones similares (Fuente ODEPA). Ganadería: MM USD 1 entre ganado y colmenas quemadas (Fuente ODEPA). Foresto-industria: MM USD 497 (Fuente ODEPA).
+
+Las estimaciones antes mencionadas hablan  de  un  efecto  acotado  en  el  ámbito  agropecuario,  pero  devastador  en  lo  relacionado con la industria forestal y los ecosistemas de Chile, así como el impacto que  puede  generarse  sobre  el  empleo,  el  ingreso y los niveles de pobreza rural en el secano costero e interior en la zona centro sur de Chile. 
 
 
 ## Referentes
